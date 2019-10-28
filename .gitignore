@@ -1,0 +1,7 @@
+##########################################
+# ignore all files under checkpoints and #
+# pycache under the current dir          #
+##########################################
+
+**/.ipynb_checkpoints/*
+**/__pycache__/*
