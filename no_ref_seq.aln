@@ -1,0 +1,6 @@
+CLUSTAL mock file
+
+seq1                     GGGGGGGGTTTTTT----GG
+no_reference             GGG---GGTTTTTTTTTGGG
+seq3                     GGGGGGGGTT------TGGG
+seq4                     -----GGGTTTTTTTTTGGG
